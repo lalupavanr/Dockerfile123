@@ -1,0 +1,2 @@
+RUN instruction is useful to install softwares, Packages & other tasks. 
+RUN instruction is use at the of image building 

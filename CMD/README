@@ -1,0 +1,4 @@
+CMD is the instruction that runs the containers it should run in foreground & it shoud run 
+for infinite time
+RUN command is used at the time of image building
+CDM command is used at the time of container running

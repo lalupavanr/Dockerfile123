@@ -1,0 +1,4 @@
+ADD is same as the copy it is used to copy the files from local to container 
+but it has two extra capabilities 
+  1. add can download files directly from internet 
+  2. add can unzip the file into the container
