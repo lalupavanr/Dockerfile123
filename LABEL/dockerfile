@@ -1,4 +1,4 @@
 FROM almalinux
 LABEL Author="Laupavan"\
-Cource="docker"\
-Duration="lifetime"
+      Cource="docker"\
+      Duration="lifetime"
